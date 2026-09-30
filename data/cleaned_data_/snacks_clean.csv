@@ -1,0 +1,151 @@
+id,user_id,items,total,created_at,username,items_list,item_count,order_month
+1,2,"[""Slushie Cosmic Fizz""]",6.0,2026-01-22 20:15:00,sarah_connor,['Slushie Cosmic Fizz'],1,2026-01
+2,2,"[""Slushie Cosmic Fizz""]",6.0,2026-02-02 15:45:00,sarah_connor,['Slushie Cosmic Fizz'],1,2026-02
+3,2,"[""Choc Bar Ice Cream"",""Butter Popcorn Large""]",12.0,2026-03-04 16:20:00,sarah_connor,"['Choc Bar Ice Cream', 'Butter Popcorn Large']",2,2026-03
+4,2,"[""Butter Popcorn Large"",""Jumbo Sprite""]",13.5,2026-06-01 16:00:00,sarah_connor,"['Butter Popcorn Large', 'Jumbo Sprite']",2,2026-06
+5,2,"[""Caramel Popcorn"",""Slushie Cosmic Fizz""]",13.5,2026-06-15 20:00:00,sarah_connor,"['Caramel Popcorn', 'Slushie Cosmic Fizz']",2,2026-06
+6,2,"[""Loaded Nachos"",""Butter Popcorn Large""]",16.5,2026-07-15 15:30:00,sarah_connor,"['Loaded Nachos', 'Butter Popcorn Large']",2,2026-07
+7,2,"[""Coca Cola Medium"",""Loaded Nachos"",""Butter Popcorn Large""]",21.0,2026-07-26 21:30:00,sarah_connor,"['Coca Cola Medium', 'Loaded Nachos', 'Butter Popcorn Large']",3,2026-07
+8,3,"[""Loaded Nachos"",""Loaded Nachos""]",17.0,2026-02-02 15:45:00,tony_stark,"['Loaded Nachos', 'Loaded Nachos']",2,2026-02
+9,3,"[""Galactic Hot Dog""]",9.0,2026-02-14 19:00:00,tony_stark,['Galactic Hot Dog'],1,2026-02
+10,3,"[""Galactic Hot Dog"",""Loaded Nachos"",""Caramel Popcorn""]",25.0,2026-05-02 14:30:00,tony_stark,"['Galactic Hot Dog', 'Loaded Nachos', 'Caramel Popcorn']",3,2026-05
+11,3,"[""Butter Popcorn Large"",""Coca Cola Medium"",""Loaded Nachos""]",21.0,2026-05-10 17:15:00,tony_stark,"['Butter Popcorn Large', 'Coca Cola Medium', 'Loaded Nachos']",3,2026-05
+12,3,"[""Galactic Hot Dog""]",9.0,2026-05-16 19:30:00,tony_stark,['Galactic Hot Dog'],1,2026-05
+13,3,"[""Jumbo Sprite""]",5.5,2026-06-15 20:00:00,tony_stark,['Jumbo Sprite'],1,2026-06
+14,3,"[""Jumbo Sprite"",""Caramel Popcorn""]",13.0,2026-06-22 21:15:00,tony_stark,"['Jumbo Sprite', 'Caramel Popcorn']",2,2026-06
+15,4,"[""Galactic Hot Dog""]",9.0,2026-02-02 15:45:00,bruce_wayne,['Galactic Hot Dog'],1,2026-02
+16,4,"[""Coca Cola Medium"",""Jumbo Sprite"",""Jumbo Sprite""]",15.5,2026-02-27 22:15:00,bruce_wayne,"['Coca Cola Medium', 'Jumbo Sprite', 'Jumbo Sprite']",3,2026-02
+17,4,"[""Butter Popcorn Large"",""Butter Popcorn Large""]",16.0,2026-03-04 16:20:00,bruce_wayne,"['Butter Popcorn Large', 'Butter Popcorn Large']",2,2026-03
+18,4,"[""Coca Cola Medium"",""Slushie Cosmic Fizz""]",10.5,2026-03-12 18:00:00,bruce_wayne,"['Coca Cola Medium', 'Slushie Cosmic Fizz']",2,2026-03
+19,4,"[""Choc Bar Ice Cream""]",4.0,2026-05-16 19:30:00,bruce_wayne,['Choc Bar Ice Cream'],1,2026-05
+20,4,"[""Slushie Cosmic Fizz"",""Jumbo Sprite""]",11.5,2026-06-22 21:15:00,bruce_wayne,"['Slushie Cosmic Fizz', 'Jumbo Sprite']",2,2026-06
+21,4,"[""Galactic Hot Dog"",""Slushie Cosmic Fizz""]",15.0,2026-07-18 18:00:00,bruce_wayne,"['Galactic Hot Dog', 'Slushie Cosmic Fizz']",2,2026-07
+22,5,"[""Choc Bar Ice Cream""]",4.0,2026-01-05 14:10:00,chintan_jain,['Choc Bar Ice Cream'],1,2026-01
+23,5,"[""Galactic Hot Dog""]",9.0,2026-03-19 21:30:00,chintan_jain,['Galactic Hot Dog'],1,2026-03
+24,5,"[""Galactic Hot Dog"",""Butter Popcorn Large""]",17.0,2026-04-03 15:00:00,chintan_jain,"['Galactic Hot Dog', 'Butter Popcorn Large']",2,2026-04
+25,5,"[""Jumbo Sprite"",""Slushie Cosmic Fizz"",""Galactic Hot Dog""]",20.5,2026-04-26 21:45:00,chintan_jain,"['Jumbo Sprite', 'Slushie Cosmic Fizz', 'Galactic Hot Dog']",3,2026-04
+26,5,"[""Loaded Nachos"",""Butter Popcorn Large""]",16.5,2026-05-02 14:30:00,chintan_jain,"['Loaded Nachos', 'Butter Popcorn Large']",2,2026-05
+27,5,"[""Slushie Cosmic Fizz"",""Choc Bar Ice Cream""]",10.0,2026-06-22 21:15:00,chintan_jain,"['Slushie Cosmic Fizz', 'Choc Bar Ice Cream']",2,2026-06
+28,5,"[""Butter Popcorn Large"",""Choc Bar Ice Cream""]",12.0,2026-07-05 17:30:00,chintan_jain,"['Butter Popcorn Large', 'Choc Bar Ice Cream']",2,2026-07
+29,5,"[""Coca Cola Medium""]",4.5,2026-07-31 19:50:00,chintan_jain,['Coca Cola Medium'],1,2026-07
+30,6,"[""Choc Bar Ice Cream"",""Galactic Hot Dog"",""Slushie Cosmic Fizz""]",19.0,2026-01-05 14:10:00,alexandra_daddario,"['Choc Bar Ice Cream', 'Galactic Hot Dog', 'Slushie Cosmic Fizz']",3,2026-01
+31,6,"[""Choc Bar Ice Cream"",""Coca Cola Medium""]",8.5,2026-02-20 20:45:00,alexandra_daddario,"['Choc Bar Ice Cream', 'Coca Cola Medium']",2,2026-02
+32,6,"[""Butter Popcorn Large"",""Choc Bar Ice Cream"",""Slushie Cosmic Fizz""]",18.0,2026-03-12 18:00:00,alexandra_daddario,"['Butter Popcorn Large', 'Choc Bar Ice Cream', 'Slushie Cosmic Fizz']",3,2026-03
+33,6,"[""Coca Cola Medium""]",4.5,2026-04-11 18:45:00,alexandra_daddario,['Coca Cola Medium'],1,2026-04
+34,6,"[""Caramel Popcorn"",""Galactic Hot Dog""]",16.5,2026-06-01 16:00:00,alexandra_daddario,"['Caramel Popcorn', 'Galactic Hot Dog']",2,2026-06
+35,6,"[""Coca Cola Medium"",""Butter Popcorn Large"",""Choc Bar Ice Cream""]",16.5,2026-06-15 20:00:00,alexandra_daddario,"['Coca Cola Medium', 'Butter Popcorn Large', 'Choc Bar Ice Cream']",3,2026-06
+36,6,"[""Caramel Popcorn"",""Galactic Hot Dog"",""Slushie Cosmic Fizz""]",22.5,2026-07-01 14:00:00,alexandra_daddario,"['Caramel Popcorn', 'Galactic Hot Dog', 'Slushie Cosmic Fizz']",3,2026-07
+37,6,"[""Coca Cola Medium"",""Choc Bar Ice Cream""]",8.5,2026-07-09 19:15:00,alexandra_daddario,"['Coca Cola Medium', 'Choc Bar Ice Cream']",2,2026-07
+38,6,"[""Slushie Cosmic Fizz""]",6.0,2026-07-26 21:30:00,alexandra_daddario,['Slushie Cosmic Fizz'],1,2026-07
+39,7,"[""Butter Popcorn Large"",""Loaded Nachos""]",16.5,2026-01-28 21:00:00,marcus_aurelius,"['Butter Popcorn Large', 'Loaded Nachos']",2,2026-01
+40,7,"[""Galactic Hot Dog""]",9.0,2026-02-14 19:00:00,marcus_aurelius,['Galactic Hot Dog'],1,2026-02
+41,7,"[""Caramel Popcorn"",""Galactic Hot Dog""]",16.5,2026-02-27 22:15:00,marcus_aurelius,"['Caramel Popcorn', 'Galactic Hot Dog']",2,2026-02
+42,7,"[""Caramel Popcorn""]",7.5,2026-03-19 21:30:00,marcus_aurelius,['Caramel Popcorn'],1,2026-03
+43,7,"[""Butter Popcorn Large""]",8.0,2026-06-01 16:00:00,marcus_aurelius,['Butter Popcorn Large'],1,2026-06
+44,7,"[""Coca Cola Medium"",""Caramel Popcorn""]",12.0,2026-06-08 18:20:00,marcus_aurelius,"['Coca Cola Medium', 'Caramel Popcorn']",2,2026-06
+45,7,"[""Choc Bar Ice Cream"",""Galactic Hot Dog""]",13.0,2026-06-15 20:00:00,marcus_aurelius,"['Choc Bar Ice Cream', 'Galactic Hot Dog']",2,2026-06
+46,7,"[""Jumbo Sprite""]",5.5,2026-07-22 20:00:00,marcus_aurelius,['Jumbo Sprite'],1,2026-07
+47,8,"[""Jumbo Sprite"",""Coca Cola Medium""]",10.0,2026-01-28 21:00:00,elena_rodriguez,"['Jumbo Sprite', 'Coca Cola Medium']",2,2026-01
+48,8,"[""Coca Cola Medium"",""Choc Bar Ice Cream"",""Galactic Hot Dog""]",17.5,2026-02-02 15:45:00,elena_rodriguez,"['Coca Cola Medium', 'Choc Bar Ice Cream', 'Galactic Hot Dog']",3,2026-02
+49,8,"[""Slushie Cosmic Fizz"",""Slushie Cosmic Fizz"",""Loaded Nachos""]",20.5,2026-02-14 19:00:00,elena_rodriguez,"['Slushie Cosmic Fizz', 'Slushie Cosmic Fizz', 'Loaded Nachos']",3,2026-02
+50,8,"[""Coca Cola Medium"",""Galactic Hot Dog""]",13.5,2026-04-11 18:45:00,elena_rodriguez,"['Coca Cola Medium', 'Galactic Hot Dog']",2,2026-04
+51,8,"[""Coca Cola Medium""]",4.5,2026-05-10 17:15:00,elena_rodriguez,['Coca Cola Medium'],1,2026-05
+52,8,"[""Choc Bar Ice Cream"",""Slushie Cosmic Fizz"",""Slushie Cosmic Fizz""]",16.0,2026-05-16 19:30:00,elena_rodriguez,"['Choc Bar Ice Cream', 'Slushie Cosmic Fizz', 'Slushie Cosmic Fizz']",3,2026-05
+53,8,"[""Galactic Hot Dog"",""Loaded Nachos""]",17.5,2026-07-01 14:00:00,elena_rodriguez,"['Galactic Hot Dog', 'Loaded Nachos']",2,2026-07
+54,8,"[""Slushie Cosmic Fizz"",""Loaded Nachos"",""Choc Bar Ice Cream""]",18.5,2026-07-31 19:50:00,elena_rodriguez,"['Slushie Cosmic Fizz', 'Loaded Nachos', 'Choc Bar Ice Cream']",3,2026-07
+55,9,"[""Choc Bar Ice Cream"",""Galactic Hot Dog"",""Caramel Popcorn""]",20.5,2026-01-22 20:15:00,vikram_singh,"['Choc Bar Ice Cream', 'Galactic Hot Dog', 'Caramel Popcorn']",3,2026-01
+56,9,"[""Caramel Popcorn"",""Choc Bar Ice Cream"",""Choc Bar Ice Cream""]",15.5,2026-03-04 16:20:00,vikram_singh,"['Caramel Popcorn', 'Choc Bar Ice Cream', 'Choc Bar Ice Cream']",3,2026-03
+57,9,"[""Caramel Popcorn"",""Caramel Popcorn"",""Slushie Cosmic Fizz""]",21.0,2026-03-19 21:30:00,vikram_singh,"['Caramel Popcorn', 'Caramel Popcorn', 'Slushie Cosmic Fizz']",3,2026-03
+58,9,"[""Caramel Popcorn"",""Jumbo Sprite"",""Loaded Nachos""]",21.5,2026-04-11 18:45:00,vikram_singh,"['Caramel Popcorn', 'Jumbo Sprite', 'Loaded Nachos']",3,2026-04
+59,9,"[""Coca Cola Medium"",""Butter Popcorn Large""]",12.5,2026-05-24 22:00:00,vikram_singh,"['Coca Cola Medium', 'Butter Popcorn Large']",2,2026-05
+60,9,"[""Caramel Popcorn"",""Slushie Cosmic Fizz"",""Choc Bar Ice Cream""]",17.5,2026-06-01 16:00:00,vikram_singh,"['Caramel Popcorn', 'Slushie Cosmic Fizz', 'Choc Bar Ice Cream']",3,2026-06
+61,9,"[""Slushie Cosmic Fizz"",""Butter Popcorn Large""]",14.0,2026-07-12 20:45:00,vikram_singh,"['Slushie Cosmic Fizz', 'Butter Popcorn Large']",2,2026-07
+62,9,"[""Caramel Popcorn"",""Jumbo Sprite"",""Slushie Cosmic Fizz""]",19.0,2026-07-22 20:00:00,vikram_singh,"['Caramel Popcorn', 'Jumbo Sprite', 'Slushie Cosmic Fizz']",3,2026-07
+63,10,"[""Caramel Popcorn"",""Caramel Popcorn"",""Slushie Cosmic Fizz""]",21.0,2026-01-05 14:10:00,sophia_chen,"['Caramel Popcorn', 'Caramel Popcorn', 'Slushie Cosmic Fizz']",3,2026-01
+64,10,"[""Coca Cola Medium"",""Loaded Nachos""]",13.0,2026-01-14 18:30:00,sophia_chen,"['Coca Cola Medium', 'Loaded Nachos']",2,2026-01
+65,10,"[""Coca Cola Medium"",""Choc Bar Ice Cream""]",8.5,2026-02-27 22:15:00,sophia_chen,"['Coca Cola Medium', 'Choc Bar Ice Cream']",2,2026-02
+66,10,"[""Slushie Cosmic Fizz"",""Slushie Cosmic Fizz""]",12.0,2026-03-19 21:30:00,sophia_chen,"['Slushie Cosmic Fizz', 'Slushie Cosmic Fizz']",2,2026-03
+67,10,"[""Butter Popcorn Large""]",8.0,2026-04-26 21:45:00,sophia_chen,['Butter Popcorn Large'],1,2026-04
+68,10,"[""Slushie Cosmic Fizz""]",6.0,2026-07-18 18:00:00,sophia_chen,['Slushie Cosmic Fizz'],1,2026-07
+69,10,"[""Caramel Popcorn"",""Jumbo Sprite""]",13.0,2026-07-22 20:00:00,sophia_chen,"['Caramel Popcorn', 'Jumbo Sprite']",2,2026-07
+70,11,"[""Loaded Nachos""]",8.5,2026-01-14 18:30:00,david_beckham,['Loaded Nachos'],1,2026-01
+71,11,"[""Choc Bar Ice Cream"",""Caramel Popcorn""]",11.5,2026-01-22 20:15:00,david_beckham,"['Choc Bar Ice Cream', 'Caramel Popcorn']",2,2026-01
+72,11,"[""Coca Cola Medium"",""Jumbo Sprite"",""Galactic Hot Dog""]",19.0,2026-02-14 19:00:00,david_beckham,"['Coca Cola Medium', 'Jumbo Sprite', 'Galactic Hot Dog']",3,2026-02
+73,11,"[""Slushie Cosmic Fizz""]",6.0,2026-03-25 17:15:00,david_beckham,['Slushie Cosmic Fizz'],1,2026-03
+74,11,"[""Loaded Nachos""]",8.5,2026-05-16 19:30:00,david_beckham,['Loaded Nachos'],1,2026-05
+75,11,"[""Loaded Nachos""]",8.5,2026-06-22 21:15:00,david_beckham,['Loaded Nachos'],1,2026-06
+76,11,"[""Coca Cola Medium"",""Caramel Popcorn""]",12.0,2026-07-09 19:15:00,david_beckham,"['Coca Cola Medium', 'Caramel Popcorn']",2,2026-07
+77,11,"[""Jumbo Sprite"",""Jumbo Sprite"",""Loaded Nachos""]",19.5,2026-07-18 18:00:00,david_beckham,"['Jumbo Sprite', 'Jumbo Sprite', 'Loaded Nachos']",3,2026-07
+78,11,"[""Slushie Cosmic Fizz"",""Jumbo Sprite""]",11.5,2026-07-26 21:30:00,david_beckham,"['Slushie Cosmic Fizz', 'Jumbo Sprite']",2,2026-07
+79,12,"[""Choc Bar Ice Cream"",""Jumbo Sprite"",""Choc Bar Ice Cream""]",13.5,2026-02-27 22:15:00,clark_kent,"['Choc Bar Ice Cream', 'Jumbo Sprite', 'Choc Bar Ice Cream']",3,2026-02
+80,12,"[""Jumbo Sprite"",""Jumbo Sprite""]",11.0,2026-03-12 18:00:00,clark_kent,"['Jumbo Sprite', 'Jumbo Sprite']",2,2026-03
+81,12,"[""Butter Popcorn Large"",""Butter Popcorn Large"",""Coca Cola Medium""]",20.5,2026-04-18 20:30:00,clark_kent,"['Butter Popcorn Large', 'Butter Popcorn Large', 'Coca Cola Medium']",3,2026-04
+82,12,"[""Choc Bar Ice Cream"",""Slushie Cosmic Fizz""]",10.0,2026-07-12 20:45:00,clark_kent,"['Choc Bar Ice Cream', 'Slushie Cosmic Fizz']",2,2026-07
+83,13,"[""Loaded Nachos"",""Choc Bar Ice Cream"",""Galactic Hot Dog""]",21.5,2026-04-11 18:45:00,peter_parker,"['Loaded Nachos', 'Choc Bar Ice Cream', 'Galactic Hot Dog']",3,2026-04
+84,13,"[""Caramel Popcorn""]",7.5,2026-06-01 16:00:00,peter_parker,['Caramel Popcorn'],1,2026-06
+85,13,"[""Galactic Hot Dog"",""Slushie Cosmic Fizz"",""Loaded Nachos""]",23.5,2026-06-15 20:00:00,peter_parker,"['Galactic Hot Dog', 'Slushie Cosmic Fizz', 'Loaded Nachos']",3,2026-06
+86,13,"[""Caramel Popcorn"",""Galactic Hot Dog"",""Loaded Nachos""]",25.0,2026-07-09 19:15:00,peter_parker,"['Caramel Popcorn', 'Galactic Hot Dog', 'Loaded Nachos']",3,2026-07
+87,14,"[""Jumbo Sprite"",""Choc Bar Ice Cream"",""Galactic Hot Dog""]",18.5,2026-06-08 18:20:00,john_doe,"['Jumbo Sprite', 'Choc Bar Ice Cream', 'Galactic Hot Dog']",3,2026-06
+88,14,"[""Slushie Cosmic Fizz""]",6.0,2026-06-15 20:00:00,john_doe,['Slushie Cosmic Fizz'],1,2026-06
+89,14,"[""Slushie Cosmic Fizz"",""Coca Cola Medium""]",10.5,2026-07-05 17:30:00,john_doe,"['Slushie Cosmic Fizz', 'Coca Cola Medium']",2,2026-07
+90,15,"[""Caramel Popcorn"",""Caramel Popcorn""]",15.0,2026-05-16 19:30:00,jane_smith,"['Caramel Popcorn', 'Caramel Popcorn']",2,2026-05
+91,15,"[""Butter Popcorn Large"",""Slushie Cosmic Fizz"",""Galactic Hot Dog""]",23.0,2026-05-24 22:00:00,jane_smith,"['Butter Popcorn Large', 'Slushie Cosmic Fizz', 'Galactic Hot Dog']",3,2026-05
+92,15,"[""Choc Bar Ice Cream""]",4.0,2026-07-15 15:30:00,jane_smith,['Choc Bar Ice Cream'],1,2026-07
+93,16,"[""Coca Cola Medium"",""Butter Popcorn Large"",""Loaded Nachos""]",21.0,2026-02-14 19:00:00,david_miller,"['Coca Cola Medium', 'Butter Popcorn Large', 'Loaded Nachos']",3,2026-02
+94,16,"[""Galactic Hot Dog"",""Butter Popcorn Large""]",17.0,2026-07-01 14:00:00,david_miller,"['Galactic Hot Dog', 'Butter Popcorn Large']",2,2026-07
+95,17,"[""Galactic Hot Dog""]",9.0,2026-04-03 15:00:00,emily_davis,['Galactic Hot Dog'],1,2026-04
+96,17,"[""Slushie Cosmic Fizz"",""Choc Bar Ice Cream"",""Galactic Hot Dog""]",19.0,2026-05-16 19:30:00,emily_davis,"['Slushie Cosmic Fizz', 'Choc Bar Ice Cream', 'Galactic Hot Dog']",3,2026-05
+97,17,"[""Choc Bar Ice Cream""]",4.0,2026-06-08 18:20:00,emily_davis,['Choc Bar Ice Cream'],1,2026-06
+98,18,"[""Slushie Cosmic Fizz"",""Choc Bar Ice Cream"",""Galactic Hot Dog""]",19.0,2026-03-12 18:00:00,michael_wilson,"['Slushie Cosmic Fizz', 'Choc Bar Ice Cream', 'Galactic Hot Dog']",3,2026-03
+99,18,"[""Butter Popcorn Large"",""Caramel Popcorn""]",15.5,2026-05-02 14:30:00,michael_wilson,"['Butter Popcorn Large', 'Caramel Popcorn']",2,2026-05
+100,18,"[""Jumbo Sprite"",""Coca Cola Medium"",""Butter Popcorn Large""]",18.0,2026-07-01 14:00:00,michael_wilson,"['Jumbo Sprite', 'Coca Cola Medium', 'Butter Popcorn Large']",3,2026-07
+101,19,"[""Galactic Hot Dog"",""Loaded Nachos"",""Coca Cola Medium""]",22.0,2026-02-02 15:45:00,jessica_taylor,"['Galactic Hot Dog', 'Loaded Nachos', 'Coca Cola Medium']",3,2026-02
+102,19,"[""Jumbo Sprite""]",5.5,2026-05-10 17:15:00,jessica_taylor,['Jumbo Sprite'],1,2026-05
+103,19,"[""Butter Popcorn Large"",""Galactic Hot Dog"",""Slushie Cosmic Fizz""]",23.0,2026-05-16 19:30:00,jessica_taylor,"['Butter Popcorn Large', 'Galactic Hot Dog', 'Slushie Cosmic Fizz']",3,2026-05
+104,20,"[""Galactic Hot Dog""]",9.0,2026-02-02 15:45:00,robert_thomas,['Galactic Hot Dog'],1,2026-02
+105,20,"[""Coca Cola Medium"",""Butter Popcorn Large""]",12.5,2026-03-12 18:00:00,robert_thomas,"['Coca Cola Medium', 'Butter Popcorn Large']",2,2026-03
+106,20,"[""Choc Bar Ice Cream"",""Loaded Nachos"",""Caramel Popcorn""]",20.0,2026-03-19 21:30:00,robert_thomas,"['Choc Bar Ice Cream', 'Loaded Nachos', 'Caramel Popcorn']",3,2026-03
+107,20,"[""Loaded Nachos"",""Slushie Cosmic Fizz""]",14.5,2026-04-03 15:00:00,robert_thomas,"['Loaded Nachos', 'Slushie Cosmic Fizz']",2,2026-04
+108,21,"[""Jumbo Sprite""]",5.5,2026-02-20 20:45:00,linda_jackson,['Jumbo Sprite'],1,2026-02
+109,21,"[""Slushie Cosmic Fizz""]",6.0,2026-05-10 17:15:00,linda_jackson,['Slushie Cosmic Fizz'],1,2026-05
+110,21,"[""Galactic Hot Dog"",""Galactic Hot Dog""]",18.0,2026-05-24 22:00:00,linda_jackson,"['Galactic Hot Dog', 'Galactic Hot Dog']",2,2026-05
+111,22,"[""Coca Cola Medium""]",4.5,2026-04-03 15:00:00,william_white,['Coca Cola Medium'],1,2026-04
+112,22,"[""Jumbo Sprite"",""Butter Popcorn Large"",""Jumbo Sprite""]",19.0,2026-04-11 18:45:00,william_white,"['Jumbo Sprite', 'Butter Popcorn Large', 'Jumbo Sprite']",3,2026-04
+113,22,"[""Galactic Hot Dog"",""Jumbo Sprite"",""Loaded Nachos""]",23.0,2026-06-08 18:20:00,william_white,"['Galactic Hot Dog', 'Jumbo Sprite', 'Loaded Nachos']",3,2026-06
+114,22,"[""Coca Cola Medium"",""Caramel Popcorn""]",12.0,2026-07-15 15:30:00,william_white,"['Coca Cola Medium', 'Caramel Popcorn']",2,2026-07
+115,23,"[""Butter Popcorn Large"",""Galactic Hot Dog"",""Galactic Hot Dog""]",26.0,2026-04-18 20:30:00,elizabeth_harris,"['Butter Popcorn Large', 'Galactic Hot Dog', 'Galactic Hot Dog']",3,2026-04
+116,23,"[""Jumbo Sprite""]",5.5,2026-05-02 14:30:00,elizabeth_harris,['Jumbo Sprite'],1,2026-05
+117,24,"[""Caramel Popcorn""]",7.5,2026-04-26 21:45:00,joseph_martin,['Caramel Popcorn'],1,2026-04
+118,24,"[""Coca Cola Medium"",""Coca Cola Medium""]",9.0,2026-07-01 14:00:00,joseph_martin,"['Coca Cola Medium', 'Coca Cola Medium']",2,2026-07
+119,24,"[""Loaded Nachos""]",8.5,2026-07-09 19:15:00,joseph_martin,['Loaded Nachos'],1,2026-07
+120,24,"[""Loaded Nachos"",""Jumbo Sprite"",""Jumbo Sprite""]",19.5,2026-07-12 20:45:00,joseph_martin,"['Loaded Nachos', 'Jumbo Sprite', 'Jumbo Sprite']",3,2026-07
+121,25,"[""Loaded Nachos""]",8.5,2026-03-19 21:30:00,barbara_clark,['Loaded Nachos'],1,2026-03
+122,25,"[""Coca Cola Medium""]",4.5,2026-04-03 15:00:00,barbara_clark,['Coca Cola Medium'],1,2026-04
+123,25,"[""Loaded Nachos"",""Caramel Popcorn"",""Caramel Popcorn""]",23.5,2026-06-01 16:00:00,barbara_clark,"['Loaded Nachos', 'Caramel Popcorn', 'Caramel Popcorn']",3,2026-06
+124,25,"[""Galactic Hot Dog"",""Jumbo Sprite""]",14.5,2026-06-22 21:15:00,barbara_clark,"['Galactic Hot Dog', 'Jumbo Sprite']",2,2026-06
+125,25,"[""Jumbo Sprite""]",5.5,2026-07-12 20:45:00,barbara_clark,['Jumbo Sprite'],1,2026-07
+126,26,"[""Jumbo Sprite""]",5.5,2026-01-28 21:00:00,thomas_rodriguez,['Jumbo Sprite'],1,2026-01
+127,26,"[""Choc Bar Ice Cream""]",4.0,2026-02-27 22:15:00,thomas_rodriguez,['Choc Bar Ice Cream'],1,2026-02
+128,26,"[""Caramel Popcorn"",""Butter Popcorn Large""]",15.5,2026-04-11 18:45:00,thomas_rodriguez,"['Caramel Popcorn', 'Butter Popcorn Large']",2,2026-04
+129,28,"[""Galactic Hot Dog"",""Choc Bar Ice Cream"",""Butter Popcorn Large""]",21.0,2026-02-27 22:15:00,christopher_lee,"['Galactic Hot Dog', 'Choc Bar Ice Cream', 'Butter Popcorn Large']",3,2026-02
+130,29,"[""Caramel Popcorn""]",7.5,2026-01-05 14:10:00,margaret_walker,['Caramel Popcorn'],1,2026-01
+131,29,"[""Slushie Cosmic Fizz"",""Slushie Cosmic Fizz"",""Caramel Popcorn""]",19.5,2026-02-27 22:15:00,margaret_walker,"['Slushie Cosmic Fizz', 'Slushie Cosmic Fizz', 'Caramel Popcorn']",3,2026-02
+132,29,"[""Galactic Hot Dog"",""Coca Cola Medium""]",13.5,2026-03-12 18:00:00,margaret_walker,"['Galactic Hot Dog', 'Coca Cola Medium']",2,2026-03
+133,29,"[""Jumbo Sprite"",""Galactic Hot Dog""]",14.5,2026-04-03 15:00:00,margaret_walker,"['Jumbo Sprite', 'Galactic Hot Dog']",2,2026-04
+134,30,"[""Galactic Hot Dog"",""Loaded Nachos"",""Choc Bar Ice Cream""]",21.5,2026-01-22 20:15:00,matthew_hall,"['Galactic Hot Dog', 'Loaded Nachos', 'Choc Bar Ice Cream']",3,2026-01
+135,30,"[""Galactic Hot Dog"",""Coca Cola Medium""]",13.5,2026-02-27 22:15:00,matthew_hall,"['Galactic Hot Dog', 'Coca Cola Medium']",2,2026-02
+136,31,"[""Choc Bar Ice Cream"",""Choc Bar Ice Cream"",""Butter Popcorn Large""]",16.0,2026-01-22 20:15:00,lisa_allen,"['Choc Bar Ice Cream', 'Choc Bar Ice Cream', 'Butter Popcorn Large']",3,2026-01
+137,31,"[""Slushie Cosmic Fizz"",""Jumbo Sprite""]",11.5,2026-04-03 15:00:00,lisa_allen,"['Slushie Cosmic Fizz', 'Jumbo Sprite']",2,2026-04
+138,31,"[""Galactic Hot Dog"",""Butter Popcorn Large""]",17.0,2026-04-11 18:45:00,lisa_allen,"['Galactic Hot Dog', 'Butter Popcorn Large']",2,2026-04
+139,32,"[""Butter Popcorn Large""]",8.0,2026-01-22 20:15:00,daniel_young,['Butter Popcorn Large'],1,2026-01
+140,32,"[""Coca Cola Medium"",""Slushie Cosmic Fizz"",""Galactic Hot Dog""]",19.5,2026-02-20 20:45:00,daniel_young,"['Coca Cola Medium', 'Slushie Cosmic Fizz', 'Galactic Hot Dog']",3,2026-02
+141,32,"[""Slushie Cosmic Fizz"",""Jumbo Sprite"",""Coca Cola Medium""]",16.0,2026-04-03 15:00:00,daniel_young,"['Slushie Cosmic Fizz', 'Jumbo Sprite', 'Coca Cola Medium']",3,2026-04
+142,33,"[""Butter Popcorn Large""]",8.0,2026-03-19 21:30:00,nancy_king,['Butter Popcorn Large'],1,2026-03
+143,33,"[""Jumbo Sprite""]",5.5,2026-04-11 18:45:00,nancy_king,['Jumbo Sprite'],1,2026-04
+144,37,"[""Jumbo Sprite"",""Galactic Hot Dog""]",14.5,2026-04-26 21:45:00,betty_baker,"['Jumbo Sprite', 'Galactic Hot Dog']",2,2026-04
+145,37,"[""Loaded Nachos""]",8.5,2026-06-22 21:15:00,betty_baker,['Loaded Nachos'],1,2026-06
+146,38,"[""Coca Cola Medium"",""Galactic Hot Dog"",""Coca Cola Medium""]",18.0,2026-07-26 21:30:00,edward_adams,"['Coca Cola Medium', 'Galactic Hot Dog', 'Coca Cola Medium']",3,2026-07
+147,39,"[""Caramel Popcorn"",""Jumbo Sprite"",""Slushie Cosmic Fizz""]",19.0,2026-07-31 19:50:00,brian_nelson,"['Caramel Popcorn', 'Jumbo Sprite', 'Slushie Cosmic Fizz']",3,2026-07
+148,40,"[""Coca Cola Medium"",""Choc Bar Ice Cream""]",8.5,2026-05-02 14:30:00,dorothy_hill,"['Coca Cola Medium', 'Choc Bar Ice Cream']",2,2026-05
+149,42,"[""Choc Bar Ice Cream"",""Coca Cola Medium"",""Jumbo Sprite""]",14.0,2026-07-29 16:45:00,samuel_campbell,"['Choc Bar Ice Cream', 'Coca Cola Medium', 'Jumbo Sprite']",3,2026-07
+150,44,"[""Loaded Nachos"",""Loaded Nachos"",""Galactic Hot Dog""]",26.0,2026-07-31 19:50:00,brandon_roberts,"['Loaded Nachos', 'Loaded Nachos', 'Galactic Hot Dog']",3,2026-07
